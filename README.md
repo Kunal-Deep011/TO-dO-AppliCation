@@ -6,6 +6,14 @@ This is a simple To-Do application built using ReactJS with Redux for state mana
 
 # Deployed link - https://to-do-application0777.netlify.app/
 
+# Screenshots-
+
+![Screenshot-0001](https://github.com/Kunal-Deep011/TO-dO-AppliCation/assets/117732649/98fc819f-90e6-4436-b63f-c9adad42c765)
+
+![Screenshot-0002](https://github.com/Kunal-Deep011/TO-dO-AppliCation/assets/117732649/dc70b4d4-4b68-4dbf-9c8f-019e614a47a1)
+
+![Screenshot-0003](https://github.com/Kunal-Deep011/TO-dO-AppliCation/assets/117732649/8c8ba9ab-4eb3-4ae7-9261-0c36d1ca705e)
+
 # Features-
 
 1.  Add Task
