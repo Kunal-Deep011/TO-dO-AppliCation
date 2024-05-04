@@ -8,6 +8,11 @@ This is a simple To-Do application built using ReactJS with Redux for state mana
 
 # Screenshots-
 
+![Screenshot-0001](https://github.com/Kunal-Deep011/TO-dO-AppliCation/assets/117732649/005303a3-c125-4b66-95be-c9f5e8063a04)
+
+![Screenshot-0002](https://github.com/Kunal-Deep011/TO-dO-AppliCation/assets/117732649/73770c0c-b126-44f0-9b8d-55674e093c43)
+
+![Screenshot-0003](https://github.com/Kunal-Deep011/TO-dO-AppliCation/assets/117732649/6e4940bb-30ce-4d35-a365-74911c5f356a)
 
 # Features-
 
